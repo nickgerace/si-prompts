@@ -1,0 +1,1 @@
+Give me the proposed configuration for the AWS node group and the cluster.

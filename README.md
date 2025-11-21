@@ -1,2 +1,3 @@
-# si-prompts
-Prompts for the SI AI agent
+# SI Prompts
+
+This repository contains prompts for the [SI AI Agent](https://github.com/systeminit/si-ai-agent.git).

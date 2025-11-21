@@ -1,0 +1,1 @@
+Using this quickstart guide - https://github.com/Azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.kubernetes/aks set up Microsoft Azure components accordingly to do what the guide does. Use the "aks" change set. Do not use any other change set. Use the existing Location, Credential, Subscription and Resource Group components.
